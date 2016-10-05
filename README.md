@@ -1,4 +1,8 @@
-# hw2, Recursive Notifications. Due date: Friday 10/7
+# hw2, Recursive Notifications
+
+## Early deadline: Friday 10/7 4pm, +6 extra points, folder name: hw2early
+
+## Regular deadline: Saturday 10/8 6pm, folder name: hw2
 
 You will create a C++ program that will recursively combine notifications (using doubly linked lists).
 
@@ -61,7 +65,7 @@ Example of combining notifications from all input files:
 
 * Must utilize your own linked-lists to do the combining of operations (either within a file, or when combining various files into a single list of notifications). Failure to do so will result in a grade of 2 points (out of 100). That is, using any existing library for linked-lists is not allowed.
 * Everything in your code needs to be done via recursion instead of via loops (such as `for` or `while`). Each time that your program uses a `for` or `while` loop (or similar) will have a penalty of 27 points (out of 100).
-* Place your codes in a folder in your home directory, named: `hw2` (Failure to do so will cause your program to have a zero grade due to inability for doing automated grading).
+* Place your codes in a folder in your home directory, named: `hw2` (Failure to do so will cause your program to have a zero grade due to inability for doing automated grading). In case that you are going for the early deadline, the folder name must be: `hw2early`
 
 ## Miscellaneous
 
