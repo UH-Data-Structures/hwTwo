@@ -4,6 +4,17 @@
 
 ## Regular deadline: Saturday 10/8 6pm, folder name: hw2
 
+## Overdue deadline: Wednesday 10/12 at 11am, maximum grade: 40/100, folder name hw2due
+
+ * Details about Overdue Deadline: 
+   * A few students requested an extension. 
+   * In order to move on to the next assignment, the Overdue Deadline is an option that would get you up to 40% of the points for this assignment (because it is late, and having the option of getting full points is not totally fair to students that did things on time). 
+   * Assignments overdue will be evaluated without the test cases requiring functionality of reading more than 1 file (your program can skip functionality listed in hw1 under: "Rules to combine input files"), and without the test cases requiring implementing special cases (bullet points 3, and 4 in hw1's program specification).  
+   * That is, you get maximum of 40% (instead of 100) but your program does not have to implement reading more than 1 file, and it does not have to implement the special cases.
+   * The objective is to be able to aim for 40% grade instead of the frustration of a grade of zero, but without the burden of implementing everything in the assignment because more programming assignments are coming. 
+   * We can review pros and cons of this Overdue Deadline extension on next class (if needed).
+   * Finally, please be aware of the following: There were more than twice the students that are in the early deadline option than the number of students that were in the early deadline option in the previous assignment.
+
 You will create a C++ program that will recursively combine notifications (using doubly linked lists).
 
 The requirements are the same as those of hw1 unless explicitly indicated here.
